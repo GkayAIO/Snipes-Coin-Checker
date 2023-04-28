@@ -1,4 +1,4 @@
-import requests, re, time, csv, tls_client
+import re, time, csv, tls_client
 from bs4 import BeautifulSoup
 from sty import Style, RgbFg, fg 
 from fake_useragent import UserAgent
